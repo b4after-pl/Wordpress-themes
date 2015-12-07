@@ -1,0 +1,28 @@
+.top-bar {
+	background-color: #9e490b;
+	color: #fff;
+}
+.top-bar .add-bar , footer {
+	background-color: #f07418;
+	color: #fff;
+}
+
+
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
+	color: #ccc;
+}
+
+.btn-success, .btn-success:hover {
+    color: #fff;
+    background-color: #9e490b;
+    border-color: #9e490b;
+}
+.yoast-breadcrumbs {
+	background-color: #f07418;
+	color: #fff;
+}
+
+
+.yoast-breadcrumbs a,  .navbar-inverse .navbar-nav>li>a {
+	color: #fff
+}

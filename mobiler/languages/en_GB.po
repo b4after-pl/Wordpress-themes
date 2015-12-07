@@ -1,0 +1,388 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mobiler\n"
+"POT-Creation-Date: 2015-02-27 10:40+0100\n"
+"PO-Revision-Date: 2015-02-27 10:43+0100\n"
+"Last-Translator: Kamil Winiszewski <k.winiszewski@gmail.com>\n"
+"Language-Team: Kamil Winiszewski <k.winiszewski@gmail.com>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:5 comments.php:8
+msgid "Imię lub nick"
+msgstr "Name or nick"
+
+#: comments.php:11 comments.php:14
+msgid "E-mail"
+msgstr "Email"
+
+#: comments.php:17
+msgid "WWW"
+msgstr "WWW"
+
+#: comments.php:19
+msgid "WWW, np. www.google.com"
+msgstr "WWW, ex. www.google.com"
+
+#: comments.php:27
+msgid "Skomentuj"
+msgstr "Leave a reply"
+
+#: comments.php:28
+#, php-format
+msgid "Skomentuj artykuł: %s"
+msgstr "Leave a reply to: %s"
+
+#: comments.php:29
+msgid "Anuluj"
+msgstr "Cancel"
+
+#: comments.php:30
+msgid "Wyślij komentarz"
+msgstr "Post comment"
+
+#: comments.php:34 comments.php:35
+msgid "Twój komentarz"
+msgstr "Your comment"
+
+#: comments.php:40
+#, php-format
+msgid "Musisz być <a href=\"%s\">zalogowany</a> aby komentować."
+msgstr "You must be <a href=\"%s\">logged in</a> to post a comment."
+
+#: comments.php:46
+#, php-format
+msgid ""
+"Zalogowany jako <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Wyloguj "
+"się z tego konta\">Wylogować Cię?</a>"
+msgstr ""
+"Logged as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Loggout from "
+"this account\">Log out?</a>"
+
+#: comments.php:53
+msgid ""
+"Twój adres e-mail nie zostanie opublikowany.<br /> Pola, których wypełnienie "
+"jest wymagane, są oznaczone symbolem * (gwiazdką)"
+msgstr ""
+"Your email address will not be published.<br /> Fields that are required are "
+"marked with * sign"
+
+#: comments.php:58
+#, php-format
+msgid ""
+"Możesz używać następujących tagów <abbr title=\"HyperText Markup Language"
+"\">HTML</abbr>: %s"
+msgstr ""
+"You can use following tags  <abbr title=\"HyperText Markup Language\">HTML</"
+"abbr>: %s"
+
+#: custom/sliders-int.php:10 custom/sliders-int.php:12
+msgid "Slidery"
+msgstr "Sliders"
+
+#: custom/sliders-int.php:11 custom/sliders-int.php:13
+#: custom/sliders-int.php:28
+msgid "Slider"
+msgstr "Slider"
+
+#: custom/sliders-int.php:14
+msgid "Dodaj nowy"
+msgstr "Add new"
+
+#: custom/sliders-int.php:15
+msgid "Dodaj nowy slider"
+msgstr "Add new slider"
+
+#: custom/sliders-int.php:16
+msgid "Nowy slider"
+msgstr "New slider"
+
+#: custom/sliders-int.php:17
+msgid "Edytuj slider"
+msgstr "Edit slider"
+
+#: custom/sliders-int.php:18
+msgid "Zobacz slider"
+msgstr "Show slider"
+
+#: custom/sliders-int.php:19
+msgid "Wszystkie slidery"
+msgstr "All sliders"
+
+#: custom/sliders-int.php:20
+msgid "Wyszukaj slider"
+msgstr "Search for slider"
+
+#: custom/sliders-int.php:21
+msgid "Sldiery nadrzędne:"
+msgstr "Parent sliders:"
+
+#: custom/sliders-int.php:22
+msgid "Nie znaleziono slidera."
+msgstr "No slider was found."
+
+#: custom/sliders-int.php:23
+msgid "Nie znaleziono slidera w koszu."
+msgstr "No slider was found in trash."
+
+#: custom/sliders-int.php:52
+msgid "Podpis:"
+msgstr "Subtitle:"
+
+#: custom/sliders-int.php:56
+msgid "Link:"
+msgstr "Link to:"
+
+#: custom/sliders-int.php:60
+msgid "Treść linku:"
+msgstr "Link text:"
+
+#: custom/sliders-int.php:64
+msgid "Kolejność:"
+msgstr "Order:"
+
+#: custom/sliders-int.php:68
+msgid "Kolorystyka:"
+msgstr "Color scheme:"
+
+#: custom/sliders-int.php:71
+msgid "jasna"
+msgstr "light (bright)"
+
+#: custom/sliders-int.php:72
+msgid "ciemna"
+msgstr "dark"
+
+#: custom/sliders-int.php:76
+msgid "Wyrównanie:"
+msgstr "Align:"
+
+#: custom/sliders-int.php:79
+msgid "do lewej"
+msgstr "to left"
+
+#: custom/sliders-int.php:80
+msgid "do prawej"
+msgstr "to right"
+
+#: custom/sliders-int.php:86
+msgid ""
+"Uwaga! Aby dodać obrazek slidera użyj do tego celu obrazka wyróżniającego "
+"(ikona wpisu) znajdującego się w prawym panelu."
+msgstr ""
+"Importand! To add or modify image to this slider, please use the featured "
+"image feature."
+
+#: custom/sliders-int.php:107
+msgid "Nagłówek"
+msgstr "Header"
+
+#: custom/sliders-int.php:108 custom/sliders-int.php:118
+msgid "Opis"
+msgstr "Description"
+
+#: custom/sliders-int.php:109 custom/sliders-int.php:130
+msgid "Kolejność"
+msgstr "Order"
+
+#: custom/sliders-int.php:110
+msgid "Odnośnik"
+msgstr "Link"
+
+#: custom/sliders-int.php:129
+msgid "Tytuł"
+msgstr "Title"
+
+#: custom/sliders-int.php:131
+msgid "Data"
+msgstr "Date"
+
+#: home-carousel.php:31
+msgid "Zobacz całość"
+msgstr "Read all"
+
+#: home-carousel.php:39
+msgid "Poprzedni"
+msgstr "Previews"
+
+#: home-carousel.php:43
+msgid "Następny"
+msgstr "Next"
+
+#: inc/comments.inc.php:34
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">pisze:</span>"
+msgstr "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+
+#. translators: 1: date, 2: time
+#: inc/comments.inc.php:40
+#, php-format
+msgid "%1$s o %2$s"
+msgstr "%1$s about %2$s"
+
+#: inc/comments.inc.php:40
+msgid "(Edytuj)"
+msgstr "(Edit)"
+
+#: inc/comments.inc.php:46
+msgid "Twój komentarz czeka na moderację."
+msgstr "Your comment waits for moderation."
+
+#: inc/menus.inc.php:5
+msgid "Menu główne"
+msgstr "Main menu (top)"
+
+#: inc/menus.inc.php:6
+msgid "Menu w stopce"
+msgstr "Menu in footer"
+
+#: inc/menus.inc.php:14
+msgid "Sidebar w stopce 1"
+msgstr "Sidebar in footer (first)"
+
+#: inc/menus.inc.php:16 inc/menus.inc.php:25 inc/menus.inc.php:34
+#: inc/menus.inc.php:43
+msgid "Widżety widoczne w stopce."
+msgstr "Widgets in footer"
+
+#: inc/menus.inc.php:23
+msgid "Sidebar w stopce 2"
+msgstr "Sidebar in footer (second)"
+
+#: inc/menus.inc.php:32
+msgid "Sidebar w stopce 3"
+msgstr "Sidebar in footer (third)"
+
+#: inc/menus.inc.php:41
+msgid "Sidebar w stopce 4"
+msgstr "Sidebar in footer (fourth)"
+
+#: inc/menus.inc.php:50
+msgid "Sidebar boczny"
+msgstr "Sidebar"
+
+#: inc/menus.inc.php:52
+msgid "Widżety widoczne w sidebarze aktualności strony."
+msgstr "Widgets shown in sidebar of blog page."
+
+#: inc/mobilerWidgets.inc.php:11
+msgid "Mobiler | Ostatnie wpisy"
+msgstr "Mobiler | Last posts"
+
+#: inc/mobilerWidgets.inc.php:14
+msgid "Widżet wyświetlający ostatnie wpisy"
+msgstr "Widget shows last posts."
+
+#: inc/mobilerWidgets.inc.php:47
+msgid "Opublikowano: "
+msgstr "Published:"
+
+#: inc/mobilerWidgets.inc.php:77
+msgid "Ostatnie wpisy"
+msgstr "Last posts"
+
+#: inc/mobilerWidgets.inc.php:96
+msgid "Nagłówek:"
+msgstr "Header:"
+
+#: inc/mobilerWidgets.inc.php:100
+msgid "Ilość wpisów:"
+msgstr "Post count:"
+
+#: inc/mobilerWidgets.inc.php:108
+msgid "Kategoria wpisów:"
+msgstr "Post category"
+
+#: inc/mobilerWidgets.inc.php:110
+msgid "--Wszystkie kategorie--"
+msgstr "--All categories--"
+
+#: inc/themeSettings.inc.php:4 inc/themeSettings.inc.php:48
+msgid "Ustawienia szablonu"
+msgstr "Theme options"
+
+#: inc/themeSettings.inc.php:38
+msgid "Zapisano ustawienia szablonu"
+msgstr "Setting were save successfully"
+
+#: inc/themeSettings.inc.php:56
+msgid "Rodzaj slidera na stronie głównej"
+msgstr "Slider type on homepage"
+
+#: inc/themeSettings.inc.php:61
+msgid "Cała szerokość ekranu"
+msgstr "Fullscreen width"
+
+#: inc/themeSettings.inc.php:62
+msgid "Tylko szerokość strony"
+msgstr "Only page width"
+
+#: inc/themeSettings.inc.php:67
+msgid "Ustaw logo strony"
+msgstr "Set custom logo"
+
+#: inc/themeSettings.inc.php:69
+msgid "Wpisz link do pliku lub wyślij go na serwer"
+msgstr "Set link to image or upload image"
+
+#: inc/themeSettings.inc.php:72
+msgid "Uploaduj plik na serwer"
+msgstr "Upload image"
+
+#: inc/themeSettings.inc.php:104
+msgid "Dane kontaktowe u góry strony"
+msgstr "Contact data on top of page bar"
+
+#: inc/themeSettings.inc.php:106
+msgid "Numer telefonu"
+msgstr "Phone number"
+
+#: inc/themeSettings.inc.php:110
+msgid "Adres e-mail"
+msgstr "Email address"
+
+#: inc/themeSettings.inc.php:113
+msgid "Ustawienia stron"
+msgstr "Pages settings"
+
+#: inc/themeSettings.inc.php:115
+msgid "Wyświetlanie sidebara w stronach:"
+msgstr "Sidebar on pages:"
+
+#: inc/themeSettings.inc.php:118
+msgid "Po lewej stronie"
+msgstr "Left sidebar"
+
+#: inc/themeSettings.inc.php:119
+msgid "Po prawej stronie"
+msgstr "Right sidebar"
+
+#: inc/themeSettings.inc.php:120
+msgid "Nie wyświetlaj"
+msgstr "Hide sidebar"
+
+#: inc/themeSettings.inc.php:125
+msgid "Aktualizuj "
+msgstr "Save settings"
+
+#: index.php:21 single.php:14
+msgid "Niestety, nie mamy nic smacznego do pokazania ;("
+msgstr "Nothing found :("
+
+#: loop-post.php:10
+msgid "Aktualność znajduje się w kategorii:"
+msgstr "News is posted in:"
+
+#: page.php:18
+msgid "Nie ma takiej strony :( Być może masz nieaktualny link?"
+msgstr "Page not found :( Your link may be not up to date?"

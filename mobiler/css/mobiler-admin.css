@@ -1,0 +1,72 @@
+div.theme-options-title {
+	width: 55%;
+	float: left;
+	font-size: 28px;
+	font-weight: 700;
+	margin: 30px 0 5px 0;
+}
+
+div.theme-options-title img {
+	width: 150px;
+}
+
+.clear {
+	clear: both;
+}
+
+.mobiler-updated {
+	padding: 10px;
+	border: 1px solid #e3e3e3;
+	margin: 10px 1% 0 1%;
+	border-left: 6px solid rgb(0, 210, 0);
+	background-color: #fff;
+}
+
+div.update-btn {
+	width: 40%;
+	float: right;
+	text-align: right;
+	margin: 30px 0 5px 0;
+}
+
+.mobiler-box {
+	width: 32%;
+	float: left;
+	margin-left: 1%;
+	min-width: 400px
+}
+
+.mobiler-meta-box {
+	padding: 20px;
+	margin: 0 0 20px 0;
+	background-color: #fff;
+	border: 1px solid #e3e3e3;
+}
+
+.mobiler-meta-box  table {
+	width: 100%;
+}
+
+.mobiler-meta-box em {
+	font-size: 12px;
+	color: #e3e3e3;
+}	
+
+.mobiler-meta-box  table tr td:first-child {
+	width: 40%;
+}
+
+.mobiler-meta-box  table input {
+	width: 100%;
+}
+
+h2.mobiler-meta-box-header {
+	display: block;
+	padding: 20px;
+	font-size: 16px;
+	font-weight: 900;
+	margin: 20px 0 0 0;
+	background-color: #fff;
+	border: 1px solid #e3e3e3;
+	border-bottom: 0;
+}

@@ -1,0 +1,48 @@
+.sm-icon  {
+	width: 20px;
+	height: 20px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: 20px 20px;
+	text-indent: -9999px;
+	display: inline-block;
+	margin: 0 5px;
+}
+
+.sm-icon-facebook {
+	background-image: url('icons/social-facebook.png');
+}
+
+.sm-icon-youtube {
+	background-image: url('icons/social-youtube.png');
+}
+
+.sm-icon-googleplus {
+	background-image: url('icons/social-google-plus.png');
+}
+
+.sm-icon-pinterest {
+	background-image: url('icons/social-pinterest.png');
+}
+
+.sm-icon-linkedin {
+	background-image: url('icons/social-linkedin.png');
+}
+
+.sm-icon-github {
+	background-image: url('icons/social-github.png');
+}
+
+.sm-icon-flickr {
+	background-image: url('icons/social-flickr.png');
+}
+
+.sm-icon-phone {
+	background-image: url('icons/phone.png');
+	background-size: 22px 20px;
+}
+
+.sm-icon-mail {
+	background-image: url('icons/envelope.png');
+	background-size: 15px 10px;
+}
